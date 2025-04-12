@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual Environments
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs and Debug
+*.log
+*.pot
+*.mo
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# PyInstaller
+*.pyz
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+__pypackages__/
+
+# Obsidian
+.obsidian/
